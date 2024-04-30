@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iaksh30
+- 👋 Hi, I’m @iaksh
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Power BI, python, MySQL, postgresSQL, Tableau
 - 📫 Reach me via akshmathpal@gmail.com
